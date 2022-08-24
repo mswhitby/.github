@@ -22,3 +22,5 @@
 
 [Kaggel](https://www.kaggle.com/)
 
+[Fantasy Football Notebook](https://nbviewer.org/github/deoncarlette/Portfolio/blob/main/fantasy_football/fantasy_football.ipynb)
+
