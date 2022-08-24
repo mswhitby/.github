@@ -14,6 +14,8 @@
 
 [Block A Project](https://drive.google.com/file/d/1NLtTAXQ5vWWXV8sVZB6Tj3vG3wLlIWSQ/view?usp=sharing)
 
+## Resources
+
 [Python Cheat Sheet](https://websitesetup.org/wp-content/uploads/2021/04/Python-cheat-sheet-April-2021.pdf)
 
 [Trinket](https://trinket.io/)
