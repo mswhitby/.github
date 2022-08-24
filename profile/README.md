@@ -20,5 +20,5 @@
 
 [Python Visualizer](https://pythontutor.com/visualize.html#mode=edit)
 
-[kaggel](https://www.kaggle.com/)
+[Kaggel](https://www.kaggle.com/)
 
