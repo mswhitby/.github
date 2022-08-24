@@ -4,7 +4,7 @@
 
 [Una introducción visual a Python](https://hourofpython.com/una-introduccion-visual-a-python/index.html)
 
-[Turtle Art](https://realpython.com/beginners-guide-python-turtle/)
+[The Beginner's Guide to Python Turtlet](https://realpython.com/beginners-guide-python-turtle/)
 
 # Computer Science Fundamentals
 
