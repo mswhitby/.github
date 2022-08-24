@@ -1,6 +1,4 @@
-# .github
-
-## Computer Science 1
+# Computer Science 1
 
 [Project Stem](https://projectstem.org/)
 
@@ -8,13 +6,13 @@
 
 [Turtle Art](https://realpython.com/beginners-guide-python-turtle/)
 
-## Computer Science Fundamentals
+# Computer Science Fundamentals
 
 [Scratch](https://scratch.mit.edu/)
 
 [Block A Project](https://drive.google.com/file/d/1NLtTAXQ5vWWXV8sVZB6Tj3vG3wLlIWSQ/view?usp=sharing)
 
-## Resources
+# Resources
 
 [Python Cheat Sheet](https://websitesetup.org/wp-content/uploads/2021/04/Python-cheat-sheet-April-2021.pdf)
 
