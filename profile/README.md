@@ -18,9 +18,13 @@
 
 [Trinket](https://trinket.io/)
 
-[Python Visualizer](https://pythontutor.com/visualize.html#mode=edit)
+[Python Visualizer](http](0s://pythontutor.com/visualize.html#mode=edit)
 
 [Kaggel](https://www.kaggle.com/)
 
 [Fantasy Football Notebook](https://nbviewer.org/github/deoncarlette/Portfolio/blob/main/fantasy_football/fantasy_football.ipynb)
+
+# Data Science
+
+[Data Exploration With Pandas](https://medium.com/@tanishahudson1/data-exploration-with-pandas-b27bf7490d80)
 
