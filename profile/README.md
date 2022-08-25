@@ -28,3 +28,5 @@
 
 [Data Exploration With Pandas](https://medium.com/@tanishahudson1/data-exploration-with-pandas-b27bf7490d80)
 
+[Data Exploration with Pandas and Matplolib](https://python.plainenglish.io/data-exploration-with-pandas-and-matplolib-69c24cb5ecee)
+
