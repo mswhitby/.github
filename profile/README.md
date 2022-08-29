@@ -14,13 +14,21 @@
 
 # Resources
 
-[Python Cheat Sheet](https://websitesetup.org/wp-content/uploads/2021/04/Python-cheat-sheet-April-2021.pdf)
-
 [Trinket](https://trinket.io/)
 
 [Python Visualizer](https://pythontutor.com/visualize.html#mode=edit)
 
 [Kaggel](https://www.kaggle.com/)
+
+# Cheat Sheets
+
+[pythoncheatsheet.org/](https://www.pythoncheatsheet.org/)
+
+[Python Cheat Sheet - PDF](https://websitesetup.org/wp-content/uploads/2021/04/Python-cheat-sheet-April-2021.pdf)
+
+[Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+
+[Hoja Resumen de Python 3](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-espanol.pdf)
 
 # Data Science
 
@@ -34,7 +42,8 @@
 
 **August 29, 2022**
 1. [FizzBuzz Question](https://edabit.com/challenge/WXqH9qvvGkmx4dMvp)
-2. [FizzBuzz Question](https://edabit.com/challenge/WXqH9qvvGkmx4dMvp)
+2. [Calculate the Profit](https://edabit.com/challenge/YfoKQWNeYETb9PYpw)
+3. [Get the Area of a Country](https://edabit.com/challenge/Cjtm4CpLzHDerQMfX)
 
 
 
