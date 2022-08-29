@@ -29,13 +29,15 @@
 
 # Resources
 
+## Websites
+
 [Trinket](https://trinket.io/)
 
 [Python Visualizer](https://pythontutor.com/visualize.html#mode=edit)
 
 [Kaggel](https://www.kaggle.com/)
 
-# Cheat Sheets
+## Cheat Sheets
 
 [pythoncheatsheet.org/](https://www.pythoncheatsheet.org/)
 
