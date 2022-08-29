@@ -1,4 +1,6 @@
-# Computer Science 1
+# Classes
+
+## Computer Science 1
 
 [Project Stem](https://projectstem.org/)
 
@@ -6,13 +8,13 @@
 
 [A Visual Introduction to Python](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code)
 
-# Computer Science Fundamentals
+## Computer Science Fundamentals
 
 [Scratch](https://scratch.mit.edu/)
 
 [Project I - Create A Movie With Scratch](https://drive.google.com/file/d/1NLtTAXQ5vWWXV8sVZB6Tj3vG3wLlIWSQ/view?usp=sharing)
 
-# Data Science
+## Data Science
 
 [Data Exploration With Pandas](https://medium.com/@tanishahudson1/data-exploration-with-pandas-b27bf7490d80)
 
@@ -39,7 +41,7 @@
 
 ## Cheat Sheets
 
-[pythoncheatsheet.org/](https://www.pythoncheatsheet.org/)
+[pythoncheatsheet.org](https://www.pythoncheatsheet.org/)
 
 [Python Cheat Sheet - PDF](https://websitesetup.org/wp-content/uploads/2021/04/Python-cheat-sheet-April-2021.pdf)
 
