@@ -1,6 +1,4 @@
-# Classes
-
-## Computer Science 1
+# Computer Science 1
 
 [Project Stem](https://projectstem.org/)
 
@@ -8,13 +6,13 @@
 
 [A Visual Introduction to Python](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code)
 
-## Computer Science Fundamentals
+# Computer Science Fundamentals
 
 [Scratch](https://scratch.mit.edu/)
 
 [Project I - Create A Movie With Scratch](https://drive.google.com/file/d/1NLtTAXQ5vWWXV8sVZB6Tj3vG3wLlIWSQ/view?usp=sharing)
 
-## Data Science
+# Data Science
 
 [Data Exploration With Pandas](https://medium.com/@tanishahudson1/data-exploration-with-pandas-b27bf7490d80)
 
@@ -30,8 +28,6 @@
 3. [Get the Area of a Country](https://edabit.com/challenge/Cjtm4CpLzHDerQMfX)
 
 # Resources
-
-## Websites
 
 [Trinket](https://trinket.io/)
 
