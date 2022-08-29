@@ -32,7 +32,7 @@
 
 # Python Problems
 
-** August 29, 2022**
+*August 29, 2022*
 1. [FizzBuzz Question](https://edabit.com/challenge/WXqH9qvvGkmx4dMvp)
 2. [FizzBuzz Question](https://edabit.com/challenge/WXqH9qvvGkmx4dMvp)
 
