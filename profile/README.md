@@ -29,3 +29,11 @@
 [Data Exploration with Pandas and Matplolib](https://python.plainenglish.io/data-exploration-with-pandas-and-matplolib-69c24cb5ecee)
 
 [Fantasy Football Notebook](https://nbviewer.org/github/deoncarlette/Portfolio/blob/main/fantasy_football/fantasy_football.ipynb)
+
+# Python Problems
+
+1. [FizzBuzz Question](https://edabit.com/challenge/WXqH9qvvGkmx4dMvp)
+2. [FizzBuzz Question](https://edabit.com/challenge/WXqH9qvvGkmx4dMvp)
+
+
+
