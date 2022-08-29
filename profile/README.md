@@ -10,7 +10,9 @@
 
 [Scratch](https://scratch.mit.edu/)
 
-[Block A Project](https://drive.google.com/file/d/1NLtTAXQ5vWWXV8sVZB6Tj3vG3wLlIWSQ/view?usp=sharing)
+## Projects
+
+[Project I - Create A Movie With Scratch](https://drive.google.com/file/d/1NLtTAXQ5vWWXV8sVZB6Tj3vG3wLlIWSQ/view?usp=sharing)
 
 # Resources
 
@@ -22,11 +24,10 @@
 
 [Kaggel](https://www.kaggle.com/)
 
-[Fantasy Football Notebook](https://nbviewer.org/github/deoncarlette/Portfolio/blob/main/fantasy_football/fantasy_football.ipynb)
-
 # Data Science
 
 [Data Exploration With Pandas](https://medium.com/@tanishahudson1/data-exploration-with-pandas-b27bf7490d80)
 
 [Data Exploration with Pandas and Matplolib](https://python.plainenglish.io/data-exploration-with-pandas-and-matplolib-69c24cb5ecee)
 
+[Fantasy Football Notebook](https://nbviewer.org/github/deoncarlette/Portfolio/blob/main/fantasy_football/fantasy_football.ipynb)
