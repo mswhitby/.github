@@ -12,6 +12,21 @@
 
 [Project I - Create A Movie With Scratch](https://drive.google.com/file/d/1NLtTAXQ5vWWXV8sVZB6Tj3vG3wLlIWSQ/view?usp=sharing)
 
+# Data Science
+
+[Data Exploration With Pandas](https://medium.com/@tanishahudson1/data-exploration-with-pandas-b27bf7490d80)
+
+[Data Exploration with Pandas and Matplolib](https://python.plainenglish.io/data-exploration-with-pandas-and-matplolib-69c24cb5ecee)
+
+[Fantasy Football Notebook](https://nbviewer.org/github/deoncarlette/Portfolio/blob/main/fantasy_football/fantasy_football.ipynb)
+
+# Python Problems
+
+**August 29, 2022**
+1. [FizzBuzz Question](https://edabit.com/challenge/WXqH9qvvGkmx4dMvp)
+2. [Calculate the Profit](https://edabit.com/challenge/YfoKQWNeYETb9PYpw)
+3. [Get the Area of a Country](https://edabit.com/challenge/Cjtm4CpLzHDerQMfX)
+
 # Resources
 
 [Trinket](https://trinket.io/)
@@ -30,20 +45,9 @@
 
 [Hoja Resumen de Python 3](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-espanol.pdf)
 
-# Data Science
 
-[Data Exploration With Pandas](https://medium.com/@tanishahudson1/data-exploration-with-pandas-b27bf7490d80)
 
-[Data Exploration with Pandas and Matplolib](https://python.plainenglish.io/data-exploration-with-pandas-and-matplolib-69c24cb5ecee)
 
-[Fantasy Football Notebook](https://nbviewer.org/github/deoncarlette/Portfolio/blob/main/fantasy_football/fantasy_football.ipynb)
-
-# Python Problems
-
-**August 29, 2022**
-1. [FizzBuzz Question](https://edabit.com/challenge/WXqH9qvvGkmx4dMvp)
-2. [Calculate the Profit](https://edabit.com/challenge/YfoKQWNeYETb9PYpw)
-3. [Get the Area of a Country](https://edabit.com/challenge/Cjtm4CpLzHDerQMfX)
 
 
 
