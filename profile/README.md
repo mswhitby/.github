@@ -6,9 +6,13 @@
 
 [A Visual Introduction to Python](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code)
 
+[GitHub Fundementals](https://classroom.github.com/a/sGtnUEhG)
+
 # Computer Science Fundamentals
 
 [Scratch](https://scratch.mit.edu/)
+
+[GitHub Fundementals](https://classroom.github.com/a/sGtnUEhG)
 
 [Project I - Create A Movie With Scratch](https://drive.google.com/file/d/1NLtTAXQ5vWWXV8sVZB6Tj3vG3wLlIWSQ/view?usp=sharing)
 
