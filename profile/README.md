@@ -18,7 +18,7 @@
 
 [Trinket](https://trinket.io/)
 
-[Python Visualizer](http](0s://pythontutor.com/visualize.html#mode=edit)
+[Python Visualizer](https://pythontutor.com/visualize.html#mode=edit)
 
 [Kaggel](https://www.kaggle.com/)
 
