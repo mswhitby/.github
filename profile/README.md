@@ -2,11 +2,12 @@
 
 [Project Stem](https://projectstem.org/)
 
+[GitHub Fundementals](https://classroom.github.com/a/sGtnUEhG)
+
 [Una introducción visual a Python](https://hourofpython.com/una-introduccion-visual-a-python/index.html)
 
 [A Visual Introduction to Python](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code)
 
-[GitHub Fundementals](https://classroom.github.com/a/sGtnUEhG)
 
 # Computer Science Fundamentals
 
@@ -21,6 +22,10 @@
 [Data Exploration With Pandas](https://medium.com/@tanishahudson1/data-exploration-with-pandas-b27bf7490d80)
 
 [Data Exploration with Pandas and Matplolib](https://python.plainenglish.io/data-exploration-with-pandas-and-matplolib-69c24cb5ecee)
+
+[NFL Notebook](https://www.kaggle.com/code/deoncarlette/nfl-stats-2021)
+
+[NBA Notebook](https://www.kaggle.com/code/deoncarlette/nba-stats-2021)
 
 [Fantasy Football Notebook](https://nbviewer.org/github/deoncarlette/Portfolio/blob/main/fantasy_football/fantasy_football.ipynb)
 
