@@ -21,6 +21,8 @@
 
 [A Visual Introduction to Python](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code)
 
+[Code Combat](https://codecombat.com/teachers/classes/630e6b751f71db002476030a#students-tab)
+
 # Data Science
 
 [Data Exploration With Pandas](https://medium.com/@tanishahudson1/data-exploration-with-pandas-b27bf7490d80)
