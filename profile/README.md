@@ -32,7 +32,7 @@
 # Python Problems
 
 **Week of August 29, 2022**
-[Click here for assignment](https://classroom.github.com/a/1OZd1DGN)
+[Assignment](https://classroom.github.com/a/1OZd1DGN)
 
 1. [Adding Numbers](https://edabit.com/challenge/2RtztnzMDdyAj2MD3)
 2. [List of Multiples](https://edabit.com/challenge/BuwHwPvt92yw574zB)
