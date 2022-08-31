@@ -47,7 +47,7 @@
 5. [Get the Area of a Country](https://edabit.com/challenge/Cjtm4CpLzHDerQMfX)
 6. [Find the Discount](https://edabit.com/challenge/cXnkmRdxqJrwdsP4n)
 7. [Calculate the Profit](https://edabit.com/challenge/YfoKQWNeYETb9PYpw)
-8. ||[Circle or Square](https://edabit.com/challenge/4me7LifXBwj5rhL4n)||
+8. ~~[Circle or Square](https://edabit.com/challenge/4me7LifXBwj5rhL4n)~~
 9. [How Many Vowels?](https://edabit.com/challenge/p88k8yHRPTMPt4bBo)
 10. [Calculating Damage](https://edabit.com/challenge/HSHHkdRYXfgfZSqri)
 
