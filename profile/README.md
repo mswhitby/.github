@@ -53,7 +53,7 @@
 
 # Resources
 
-[Trinket](https://trinket.io/)
+[Trinket](https://trinket.io/library/trinkets/create?lang=python3)
 
 [Python Visualizer](https://pythontutor.com/visualize.html#mode=edit)
 
