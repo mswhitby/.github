@@ -53,7 +53,7 @@
 
 # Resources
 
-[Code Compiler](https://www.onlinegdb.com/)
+[Python Code Compiler](https://www.onlinegdb.com/)
 
 [Trinket](https://trinket.io/library/trinkets/create?lang=python3)
 
