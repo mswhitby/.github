@@ -23,6 +23,8 @@
 
 [Code Combat](https://codecombat.com/students?_cc=LeftPartyOnly)
 
+[Introduction to Loops](https://drive.google.com/file/d/17i4ka4cxQ1i46xJz0NmzACW0EC_xrLcl/view?usp=sharing)
+
 # Data Science
 
 [Data Exploration With Pandas](https://medium.com/@tanishahudson1/data-exploration-with-pandas-b27bf7490d80)
