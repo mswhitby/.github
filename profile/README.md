@@ -8,6 +8,10 @@
 
 [A Visual Introduction to Python](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code)
 
+[2.2 Exploring Animations](https://drive.google.com/file/d/1v_6KLuaZ6H3jFBjIDK9CP7PVTq8_uJqy/view?usp=sharing)
+
+[2.2 Exploring Animations (Spanish)](https://drive.google.com/file/d/1DLD9NSYPBjyFm-klG3fT2YAHMBNu4X4_/view?usp=sharing)
+
 
 # Computer Science Fundamentals
 
