@@ -41,6 +41,8 @@
 
 [Fantasy Football Notebook](https://nbviewer.org/github/deoncarlette/Portfolio/blob/main/fantasy_football/fantasy_football.ipynb)
 
+[NFL - Going Long on Machine Learning](https://pages.awscloud.com/rs/112-TZM-766/images/AWS_NFL_Interactive_eBook.pdf)
+
 # Python Problems
 
 **Week of August 29, 2022**
