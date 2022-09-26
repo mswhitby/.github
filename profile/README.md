@@ -43,6 +43,8 @@
 
 [NFL - Going Long on Machine Learning](https://pages.awscloud.com/rs/112-TZM-766/images/AWS_NFL_Interactive_eBook.pdf)
 
+[NFL - Technology and the Game](https://operations.nfl.com/gameday/technology/technology-and-the-game/)
+
 # Python Problems
 
 **Week of August 29, 2022**
