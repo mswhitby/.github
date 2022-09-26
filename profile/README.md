@@ -45,6 +45,8 @@
 
 [NFL - Technology and the Game](https://operations.nfl.com/gameday/technology/technology-and-the-game/)
 
+[NBA 2020 Data Visualization](https://www.kaggle.com/code/ivanna131/nba-2020-data-visualization/notebook)
+
 # Python Problems
 
 **Week of August 29, 2022**
