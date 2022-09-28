@@ -12,6 +12,8 @@
 
 [2.2 Exploring Animations (Spanish)](https://drive.google.com/file/d/1DLD9NSYPBjyFm-klG3fT2YAHMBNu4X4_/view?usp=sharing)
 
+[Building a game with PyGame and Replit](https://docs.replit.com/tutorials/building-a-game-with-pygame)
+
 
 # Computer Science Fundamentals
 
