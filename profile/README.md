@@ -14,6 +14,8 @@
 
 [Building a game with PyGame and Replit](https://docs.replit.com/tutorials/building-a-game-with-pygame)
 
+[Replit Classroom](https://replit.com/teams/join/stmubrcwxpolgnvmmwfxkkwdoropdmsf-whs-tbirds)
+
 
 # Computer Science Fundamentals
 
