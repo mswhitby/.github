@@ -1,5 +1,7 @@
 # Computer Science 1
 
+[Exit Survey](https://docs.google.com/forms/d/e/1FAIpQLScwOcHJgBfFk48k3Yn9aPuxAghQZoXOx-oEZTstSHvdje44vw/viewform)
+
 [Project Stem](https://projectstem.org/)
 
 [GitHub Fundementals](https://classroom.github.com/a/sGtnUEhG)
