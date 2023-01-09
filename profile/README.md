@@ -1,8 +1,9 @@
 # Computer Science Fundamentals
 
+Assignments will be added here.
 
 # Computer Science 1
-
+Assignments will be added here.
 
 # Resources
 
