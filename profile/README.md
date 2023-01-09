@@ -1,5 +1,4 @@
 # Computer Science Fundamentals
-
 Assignments will be added here.
 
 # Computer Science 1
