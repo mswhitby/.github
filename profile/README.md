@@ -1,8 +1,8 @@
 # Computer Science Fundamentals
-[Replit Classroom](https://replit.com/teams/join/stmubrcwxpolgnvmmwfxkkwdoropdmsf-whs-tbirds)
+[Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
 # Computer Science 1
-[Replit Classroom](https://replit.com/teams/join/stmubrcwxpolgnvmmwfxkkwdoropdmsf-whs-tbirds)
+[Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
 # Resources
 
