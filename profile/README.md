@@ -3,10 +3,14 @@
 
 [Code Combat](https://codecombat.com/students?_cc=FruitGiftPaper)
 
+[EarSketch](https://earsketch.gatech.edu/)
+
 # Computer Science 1
 [Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
 [Code Combat](https://codecombat.com/students?_cc=FruitGiftPaper)
+
+[EarSketch](https://earsketch.gatech.edu/)
 
 # Resources
 
