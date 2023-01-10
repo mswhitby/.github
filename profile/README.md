@@ -1,9 +1,11 @@
 # Computer Science Fundamentals
 [Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
+
 [Code Combat](https://codecombat.com/students?_cc=FruitGiftPaper)
 
 # Computer Science 1
 [Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
+
 [Code Combat](https://codecombat.com/students?_cc=FruitGiftPaper)
 
 # Resources
