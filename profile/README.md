@@ -6,7 +6,7 @@ Assignments will be added here.
 
 # Resources
 
-[Replit](https://replit.com/)
+[Replit](https://replit.com/team/whs-tbirds)
 
 [Python Code Compiler](https://www.onlinegdb.com/)
 
