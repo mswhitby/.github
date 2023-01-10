@@ -1,8 +1,8 @@
 # Computer Science Fundamentals
-Assignments will be added here.
+[Replit Classroom](https://replit.com/teams/join/stmubrcwxpolgnvmmwfxkkwdoropdmsf-whs-tbirds)
 
 # Computer Science 1
-Assignments will be added here.
+[Replit Classroom](https://replit.com/teams/join/stmubrcwxpolgnvmmwfxkkwdoropdmsf-whs-tbirds)
 
 # Resources
 
