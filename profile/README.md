@@ -3,6 +3,8 @@
 
 [Code Combat](https://codecombat.com/students?_cc=FruitGiftPaper)
 
+[Scratch](https://scratch.mit.edu/)
+
 [EarSketch](https://earsketch.gatech.edu/)
 
 [A Visual Introduction to Python](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code)
@@ -11,6 +13,8 @@
 [Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
 [Code Combat](https://codecombat.com/students?_cc=FruitGiftPaper)
+
+[Scratch](https://scratch.mit.edu/)
 
 [EarSketch](https://earsketch.gatech.edu/)
 
