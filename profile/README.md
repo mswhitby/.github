@@ -11,6 +11,9 @@
 
 [Hour of Code](https://hourofcode.com/us)
 
+[Sports Data](https://www.fantasydatapros.com/) - Ask me for login info.
+
+
 # Computer Science 1
 [Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
@@ -23,6 +26,8 @@
 [A Visual Introduction to Python](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code)
 
 [Hour of Code](https://hourofcode.com/us)
+
+[Sports Data](https://www.fantasydatapros.com/) - Ask me for login info.
 
 # Resources
 
