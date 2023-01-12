@@ -1,6 +1,8 @@
 # Computer Science Fundamentals
 [Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
+[Project Stem](https://projectstem.org/users/sign_up) - Section Token: C76514 
+
 [Code Combat](https://codecombat.com/students?_cc=FruitGiftPaper)
 
 [Scratch](https://scratch.mit.edu/)
@@ -16,6 +18,8 @@
 
 # Computer Science 1
 [Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
+
+[Project Stem](https://projectstem.org/users/sign_up) - Section Token: C76514 
 
 [Code Combat](https://codecombat.com/students?_cc=FruitGiftPaper)
 
