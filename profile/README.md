@@ -37,6 +37,10 @@
 
 [Sports Data](https://www.fantasydatapros.com/) - Ask me for login info.
 
+# Python Problems
+
+[Fizz Buzz](https://github.com/mswhitby/fizzbuzz)
+
 # Resources
 
 [Replit](https://replit.com/team/whs-tbirds)
