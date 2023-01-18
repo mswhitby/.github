@@ -43,6 +43,8 @@
 
 # Resources
 
+[Learn Python The Right Way](https://learnpythontherightway.com/#read)
+
 [Replit](https://replit.com/team/whs-tbirds)
 
 [Python Code Compiler](https://www.onlinegdb.com/)
