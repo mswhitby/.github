@@ -1,24 +1,4 @@
-# Computer Science Fundamentals
-[Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
-
-[Project Stem](https://projectstem.org/users/sign_up) - Section Token: C76514 
-
-[Code Combat](https://codecombat.com/students?_cc=FruitGiftPaper)
-
-[Scratch](https://scratch.mit.edu/)
-
-[EarSketch](https://earsketch.gatech.edu/)
-
-[A Visual Introduction to Python](https://hourofpython.trinket.io/a-visual-introduction-to-python#/welcome/an-hour-of-code)
-
-[Una introducción visual a Python](https://hourofpython.com/una-introduccion-visual-a-python/index.html)
-
-[Hour of Code](https://hourofcode.com/us)
-
-[Sports Data](https://www.fantasydatapros.com/) - Ask me for login info.
-
-
-# Computer Science 1
+# Computer Science Fundamentals / Computer Science 1
 [Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
 [Project Stem](https://projectstem.org/users/sign_up) - Section Token: C76514 
