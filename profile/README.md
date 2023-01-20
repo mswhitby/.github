@@ -21,6 +21,11 @@
 
 [Fizz Buzz](https://github.com/mswhitby/fizzbuzz)
 
+# Projects
+[Pong Tutorial using Pygame - Python](https://www.101computing.net/pong-tutorial-using-pygame-getting-started/)
+
+[Balloon Popping Game - Scratch](https://projects.raspberrypi.org/en/projects/balloons)
+
 # Resources
 
 [Learn Python The Right Way](https://learnpythontherightway.com/#read)
