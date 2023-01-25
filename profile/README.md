@@ -21,6 +21,8 @@
 
 [Fizz Buzz](https://github.com/mswhitby/fizzbuzz)
 
+[Jet's Pizza](https://github.com/mswhitby/jets_pizza/)
+
 # Projects
 [Pong Tutorial using Pygame - Python](https://www.101computing.net/pong-tutorial-using-pygame-getting-started/)
 
