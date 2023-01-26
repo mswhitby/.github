@@ -17,11 +17,13 @@
 
 [Sports Data](https://www.fantasydatapros.com/) - Ask me for login info.
 
-# Python Problems
+# Python Problems / Assignments
 
 [Fizz Buzz](https://github.com/mswhitby/fizzbuzz)
 
 [Jet's Pizza](https://github.com/mswhitby/jets_pizza/)
+
+[Programming Terminology Worksheet](https://github.com/mswhitby/programming_terminology)
 
 # Projects
 [Pong Tutorial using Pygame - Python](https://www.101computing.net/pong-tutorial-using-pygame-getting-started/)
