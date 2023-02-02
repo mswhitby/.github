@@ -23,6 +23,8 @@
 
 [Jet's Pizza](https://github.com/mswhitby/jets_pizza/)
 
+[Cheeky Smiles](https://github.com/mswhitby/cheeky_smiles)
+
 [Programming Terminology Worksheet](https://github.com/mswhitby/programming_terminology)
 
 # Projects
