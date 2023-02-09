@@ -1,4 +1,4 @@
-[Cheeky Smiles - Codespace](https://prod.liveshare.vsengsaas.visualstudio.com/join?18CDD1CAC00746AD57ADE0ACD1C34F7331EB)
+[Cheeky Smiles - Codespace](https://prod.liveshare.vsengsaas.visualstudio.com/join?0FCDAD7AB49E5F1A3BB643DED2E8AAE7915A)
 
 
 # Computer Science Fundamentals / Computer Science 1
