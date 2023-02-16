@@ -30,6 +30,9 @@
 
 [Programming Terminology Worksheet](https://github.com/mswhitby/programming_terminology)
 
+## 02/16/23 Problems
+[League Points](https://github.com/mswhitby/league_points)
+
 # Projects
 [Pong Tutorial using Pygame - Python](https://www.101computing.net/pong-tutorial-using-pygame-getting-started/)
 
