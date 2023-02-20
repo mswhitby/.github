@@ -1,6 +1,6 @@
 # 2/20/23 Assignment
 
-Please chose a project from [Hour of Code](https://hourofcode.com/us). Either email your certificate or share your project with dwhitby@judsonisd.org once you've finished. I will give out tickets for completed projects once I return. Have a great day!
+Please chose a project from [Hour of Code](https://hourofcode.com/us). Either email your certificate to or share your project with dwhitby@judsonisd.org once you've finished. I will give out tickets for completed projects once I return. Have a great day!
 
 **P.S. 5th Period:** Please turn off all of the lamps and led lights at the end of the day. Thanks!
 
