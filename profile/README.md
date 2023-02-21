@@ -1,6 +1,6 @@
 # 2/20/23 - 2/24/23 Assignments
 
-## 1. Update User Names (Add Replit)
+## 1. Update User Names (Add Replit Username)
 
 [User Names Form](https://docs.google.com/forms/d/e/1FAIpQLSdKrsx23DLV96bvnDkqiVb9N97nX7iGnEMvVZ0ER8kXkspSWQ/viewform)
 
