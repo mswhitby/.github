@@ -1,10 +1,16 @@
-# 2/20/23 - 2/24/23 Problems
+# 2/20/23 - 2/24/23 Assignment
+
+## Python Problems
 
 [Adding Numbers](https://replit.com/team/whs-spring-2023/Adding-Numbers)
 
 [League Points](https://github.com/mswhitby/league_points)
 
 [Equal Values](https://github.com/mswhitby/equal_values)
+
+## Hour of Code
+
+[Hour of Code](https://hourofcode.com/us)
 
 # Computer Science Fundamentals / Computer Science 1
 
