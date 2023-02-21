@@ -1,4 +1,4 @@
-# 2/20/23 - 2/24/23 Assignment Problems
+# 2/20/23 - 2/24/23 Problems
 
 [Adding Numbers](https://replit.com/team/whs-spring-2023/Adding-Numbers)
 
