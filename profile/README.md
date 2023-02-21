@@ -4,6 +4,8 @@
 
 [Adding Numbers](https://replit.com/team/whs-spring-2023/Adding-Numbers)
 
+[Fizz Buzz](https://github.com/mswhitby/fizzbuzz)
+
 [League Points](https://github.com/mswhitby/league_points)
 
 [Equal Values](https://github.com/mswhitby/equal_values)
