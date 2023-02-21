@@ -1,6 +1,6 @@
-# 2/20/23 - 2/24/23 Assignment
+# 2/20/23 - 2/24/23 Assignments
 
-## Python Problems
+## 1. Python Problems
 
 [Adding Numbers](https://replit.com/team/whs-spring-2023/Adding-Numbers)
 
@@ -10,7 +10,7 @@
 
 [Equal Values](https://github.com/mswhitby/equal_values)
 
-## Hour of Code
+## 2. Hour of Code
 
 [Hour of Code](https://hourofcode.com/us)
 
