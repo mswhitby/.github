@@ -4,7 +4,7 @@
 
 [User Names Form](https://docs.google.com/forms/d/e/1FAIpQLSdKrsx23DLV96bvnDkqiVb9N97nX7iGnEMvVZ0ER8kXkspSWQ/viewform)
 
-## 1. Python Problems
+## 2. Python Problems
 
 [Adding Numbers](https://replit.com/team/whs-spring-2023/Adding-Numbers)
 
@@ -14,7 +14,7 @@
 
 [Equal Values](https://github.com/mswhitby/equal_values)
 
-## 2. Hour of Code
+## 3. Hour of Code
 
 [Hour of Code](https://hourofcode.com/us)
 
