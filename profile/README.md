@@ -1,6 +1,6 @@
 # 2/20/23 - 2/24/23 Assignment Problems
 
-[Adding Numbers](https://replit.com/@whs-spring-2023/Adding-Number)
+[Adding Numbers](https://replit.com/team/whs-spring-2023/Adding-Numbers)
 
 [League Points](https://github.com/mswhitby/league_points)
 
