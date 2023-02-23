@@ -6,7 +6,7 @@
 
 ## 2. Python Problems
 
-[Adding Numbers]https://github.com/mswhitby/adding_numbers)
+[Adding Numbersb](https://github.com/mswhitby/adding_numbers)
 
 [Fizz Buzz](https://github.com/mswhitby/fizzbuzz)
 
