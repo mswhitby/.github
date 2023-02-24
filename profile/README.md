@@ -8,13 +8,13 @@
 
 ## 2. Python Problems
 
+[Equal Values](https://github.com/mswhitby/equal_values)
+
 [Adding Numbers](https://github.com/mswhitby/adding_numbers)
 
 [Fizz Buzz](https://github.com/mswhitby/fizzbuzz)
 
 [League Points](https://github.com/mswhitby/league_points)
-
-[Equal Values](https://github.com/mswhitby/equal_values)
 
 ## 3. Hour of Code
 
