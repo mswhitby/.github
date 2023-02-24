@@ -8,7 +8,7 @@
 
 ## 2. Python Problems
 
-[Adding Numbersb](https://github.com/mswhitby/adding_numbers)
+[Adding Numbers](https://github.com/mswhitby/adding_numbers)
 
 [Fizz Buzz](https://github.com/mswhitby/fizzbuzz)
 
