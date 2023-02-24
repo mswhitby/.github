@@ -1,3 +1,5 @@
+[Join Class Session](https://prod.liveshare.vsengsaas.visualstudio.com/join?FB4EEBB72C0146EED3B05EAD5077AFC3E9AE)
+
 # 2/20/23 - 2/24/23 Assignments
 
 ## 1. Update User Names (Add Replit Username)
