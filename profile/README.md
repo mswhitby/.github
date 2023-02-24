@@ -1,4 +1,4 @@
-[Join Class Session](https://prod.liveshare.vsengsaas.visualstudio.com/join?460899E6C90173B9C875FEDBC454D42945AA)
+[Join Class Session](https://prod.liveshare.vsengsaas.visualstudio.com/join?C06F143A0FEDDC45CD0E8B3DA53D355CFCB2)
 
 # 2/20/23 - 2/24/23 Assignments
 
