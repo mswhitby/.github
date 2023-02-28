@@ -28,6 +28,8 @@
 
 [Balloon Popping Game - Scratch](https://projects.raspberrypi.org/en/projects/balloons)
 
+[Amazon Cyber Robotics Challenge](https://play.gocoderz.com/lp/warehouse/free.html?utm_source=AFE_LP&utm_medium=Free_access_link&utm_campaign=Amazon_Challenge)
+
 
 # Resources
 
