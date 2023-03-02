@@ -15,7 +15,7 @@ Have a great weekend, and I'll see you Monday!
 
 
 
-[Join Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
+~~[Join Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)~~
 
 ~~[Join GitHub Class Session](https://prod.liveshare.vsengsaas.visualstudio.com/join?E4D2EAD0033695AB7619CA5E2B8E2F9DDBE7)~~
 
