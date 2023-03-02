@@ -1,6 +1,6 @@
 # 3/2/23 - 3/3/23 Assignments
 
-Howdy! I will be out for a Field Trip today and in Houston for a Computer Science comepetition on Thursday. Please be polite to the sub. Choose either of the below assignments:
+Howdy! I will be out for a Field Trip today and in Houston for a Computer Science comepetition on Thursday. Please be polite to the sub. Choose from the below assignments:
 
 1. [Hour of Code](https://hourofcode.com/us)
 
