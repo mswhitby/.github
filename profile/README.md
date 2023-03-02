@@ -1,3 +1,20 @@
+# 3/2/23 - 3/3/23 Assignments
+
+Howdy! I will be out for a Field Trip today and in Houston for a Computer Science comepetition on Thursday. Please be polite to the sub. Choose either of the below assignments:
+
+1. [Hour of Code](https://hourofcode.com/us)
+
+2. [Amazon Cyber Robotics Challenge](https://play.gocoderz.com/lp/warehouse/free.html?utm_source=AFE_LP&utm_medium=Free_access_link&utm_campaign=Amazon_Challenge)
+
+3. [Pong Tutorial using Pygame - Python](https://www.101computing.net/pong-tutorial-using-pygame-getting-started/)
+
+4. [Balloon Popping Game - Scratch](https://projects.raspberrypi.org/en/projects/balloons)
+
+Have a great weekend, and I'll see you Monday!
+
+
+
+
 [Join Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
 ~~[Join GitHub Class Session](https://prod.liveshare.vsengsaas.visualstudio.com/join?E4D2EAD0033695AB7619CA5E2B8E2F9DDBE7)~~
