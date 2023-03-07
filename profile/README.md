@@ -1,6 +1,6 @@
 # Midterm
 
-[Midterm](https://replit.com/team/whs-spring-2023/Midterm-1) - On Replit
+[Midterm](https://github.com/deandrawhitby/midterm/blob/main/readme.md)
 
 # 3/2/23 - 3/3/23 Assignments
 
