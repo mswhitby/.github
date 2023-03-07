@@ -1,3 +1,7 @@
+# Midterm
+
+[Midterm](https://replit.com/@whs-spring-2023/Midterm-1#image.png) - On Replit
+
 # 3/2/23 - 3/3/23 Assignments
 
 Howdy! I will be out for a Field Trip today and in Houston for a Computer Science comepetition on Thursday. Please be polite to the sub. Choose from the below assignments:
