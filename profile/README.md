@@ -11,6 +11,8 @@
 
 - [Hangman - Tips - Period 4](https://github.com/mswhitby/hangman/tree/period_4)
 
+- [Hangman - Tips - Period 5](https://github.com/mswhitby/hangman/tree/period_5)
+
 ----
 **B. Choose one of the following:**
 
