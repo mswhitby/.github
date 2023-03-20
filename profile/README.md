@@ -3,11 +3,11 @@
 
 **A. Required for everyone not working on an independent project**
 
+[Join Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
+
 1. [Hangman - Tips](https://replit.com/@whs-spring-2023/Hangman-Tips)
 
 2. [Hangman - Assignment](https://replit.com/@whs-spring-2023/Hangman-Assignment)
-
-[Join Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
 [Hangman Repository](https://github.com/mswhitby/hangman)
 
