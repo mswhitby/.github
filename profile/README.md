@@ -1,6 +1,14 @@
 
 # 3/20/23 - 3/24/23 Assignments
 
+[Join Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
+
+1. [Hangman - Lesson](https://replit.com/@whs-spring-2023/Hangman-Lesson)
+
+2. [Hangman - Assignment](https://replit.com/@whs-spring-2023/Hangman-Assignment)
+
+----
+
 1. [Hour of Code](https://hourofcode.com/us)
 
 2. [Amazon Cyber Robotics Challenge](https://play.gocoderz.com/lp/warehouse/free.html?utm_source=AFE_LP&utm_medium=Free_access_link&utm_campaign=Amazon_Challenge)
