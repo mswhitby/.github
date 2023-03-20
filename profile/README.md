@@ -3,7 +3,7 @@
 
 **A. Required for everyone not working on an independent project**
 
-[Join Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
+[Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
 - [Hangman - Assignment](https://replit.com/@whs-spring-2023/Hangman-Assignment)
 
