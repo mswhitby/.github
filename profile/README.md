@@ -9,6 +9,8 @@
 
 [Join Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
+[Hangman Repository](https://github.com/mswhitby/hangman)
+
 ----
 **B. Choose one of the following:**
 
