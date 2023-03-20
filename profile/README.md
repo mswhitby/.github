@@ -1,10 +1,5 @@
-# Midterm
 
-[Midterm](https://github.com/deandrawhitby/midterm/blob/main/readme.md)
-
-# 3/2/23 - 3/3/23 Assignments
-
-Howdy! I will be out for a Field Trip today and in Houston for a Computer Science comepetition on Thursday. Please be polite to the sub. Choose from the below assignments:
+# 3/20/23 - 3/24/23 Assignments
 
 1. [Hour of Code](https://hourofcode.com/us)
 
@@ -14,10 +9,10 @@ Howdy! I will be out for a Field Trip today and in Houston for a Computer Scienc
 
 4. [Balloon Popping Game - Scratch](https://projects.raspberrypi.org/en/projects/balloons)
 
-Have a great weekend, and I'll see you Monday!
 
+# Midterm
 
-
+[Midterm](https://github.com/deandrawhitby/midterm/blob/main/readme.md)
 
 ~~[Join Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)~~
 
