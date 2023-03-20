@@ -5,11 +5,11 @@
 
 [Join Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
-1. [Hangman - Tips](https://replit.com/@whs-spring-2023/Hangman-Tips)
+- [Hangman - Assignment](https://replit.com/@whs-spring-2023/Hangman-Assignment)
 
-2. [Hangman - Assignment](https://replit.com/@whs-spring-2023/Hangman-Assignment)
+- [Hangman - Tips - Period 3]([https://replit.com/@whs-spring-2023/Hangman-Tips](https://github.com/mswhitby/hangman/tree/period_3))
 
-[Hangman Repository](https://github.com/mswhitby/hangman)
+- [Hangman - Tips - Period 4]([https://replit.com/@whs-spring-2023/Hangman-Tips](https://github.com/mswhitby/hangman/tree/period_4))
 
 ----
 **B. Choose one of the following:**
