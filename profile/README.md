@@ -1,16 +1,16 @@
 
 # 3/20/23 - 3/24/23 Assignments
 
+**A. Required for everyone not working on an independent project**
+
+1. [Hangman - Lesson](https://replit.com/@whs-spring-2023/Hangman-Lesson)
+
+2. [Hangman - Assignment](https://replit.com/@whs-spring-2023/Hangman-Assignment)
+
 [Join Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
-**Required for everyone not working on an independent project**
-
-[Hangman - Lesson](https://replit.com/@whs-spring-2023/Hangman-Lesson)
-
-[Hangman - Assignment](https://replit.com/@whs-spring-2023/Hangman-Assignment)
-
 ----
-**Choose one of the following**
+**B. Choose one of the following:**
 
 1. [Hour of Code](https://hourofcode.com/us)
 
