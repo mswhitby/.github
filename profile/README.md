@@ -7,9 +7,9 @@
 
 - [Hangman - Assignment](https://replit.com/@whs-spring-2023/Hangman-Assignment)
 
-- [Hangman - Tips - Period 3]([https://replit.com/@whs-spring-2023/Hangman-Tips](https://github.com/mswhitby/hangman/tree/period_3))
+- [Hangman - Tips - Period 3](https://github.com/mswhitby/hangman/tree/period_3)
 
-- [Hangman - Tips - Period 4]([https://replit.com/@whs-spring-2023/Hangman-Tips](https://github.com/mswhitby/hangman/tree/period_4))
+- [Hangman - Tips - Period 4](https://github.com/mswhitby/hangman/tree/period_4)
 
 ----
 **B. Choose one of the following:**
