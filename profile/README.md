@@ -3,8 +3,6 @@
 
 **A. Required for everyone not working on an independent project**
 
-[Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
-
 - [Hangman - Assignment](https://replit.com/@whs-spring-2023/Hangman-Assignment)
 
 - [Hangman - Tips - Period 1](https://github.com/mswhitby/hangman/tree/period_1)
@@ -14,6 +12,8 @@
 - [Hangman - Tips - Period 4](https://github.com/mswhitby/hangman/tree/period_4)
 
 - [Hangman - Tips - Period 5](https://github.com/mswhitby/hangman/tree/period_5)
+
+[Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
 ----
 **B. Choose one of the following:**
