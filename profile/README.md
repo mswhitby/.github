@@ -15,6 +15,8 @@
 
 [Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
+[Example Solution](https://github.com/Tokage-sharko/Hangman/blob/main/main.py)
+
 ----
 **B. Choose one of the following:**
 
