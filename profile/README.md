@@ -3,11 +3,11 @@
 
 **A. Required for everyone not working on an independent project**
 
+[Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
+
 - [HighLow - Assignment](https://github.com/mswhitby/highlow)
  
 - [HighLow - Tips](https://github.com/mswhitby/highlow/tree/tips)
-
-[Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
 ----
 **B. Choose one of the following:**
