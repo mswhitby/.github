@@ -1,27 +1,22 @@
 
 # 3/27/23 - 3/31/23 Assignments
 
-**A. Required for everyone not working on an independent project**
+**Required for everyone not working on an independent project**
 
 [Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
+
+**1. HighLow**
 
 - [HighLow - Assignment](https://github.com/mswhitby/highlow)
  
 - [HighLow - Tips](https://github.com/mswhitby/highlow/tree/tips)
 
-----
-**B. Choose one of the following:**
+**2. Python Skill Builder**
 
-1. [Hour of Code](https://hourofcode.com/us)
-
-2. [Amazon Cyber Robotics Challenge](https://play.gocoderz.com/lp/warehouse/free.html?utm_source=AFE_LP&utm_medium=Free_access_link&utm_campaign=Amazon_Challenge)
-
-3. [Pong Tutorial using Pygame - Python](https://www.101computing.net/pong-tutorial-using-pygame-getting-started/)
-
-4. [Balloon Popping Game - Scratch](https://projects.raspberrypi.org/en/projects/balloons)
+= [Python SKill Builder](https://github.com/mswhitby/python_skill_builder)
 
 
-
+<!-- -->
 
 # 3/20/23 - 3/24/23 Assignments
 
@@ -52,6 +47,7 @@
 
 4. [Balloon Popping Game - Scratch](https://projects.raspberrypi.org/en/projects/balloons)
 
+<!-- -->
 
 # Midterm
 
@@ -60,6 +56,8 @@
 ~~[Join Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)~~
 
 ~~[Join GitHub Class Session](https://prod.liveshare.vsengsaas.visualstudio.com/join?E4D2EAD0033695AB7619CA5E2B8E2F9DDBE7)~~
+
+<!-- -->
 
 # 2/20/23 - 2/24/23 Assignments
 
@@ -81,6 +79,8 @@
 
 [Hour of Code](https://hourofcode.com/us)
 
+<!-- -->
+
 # Alternate Project Ideas
 
 [Pong Tutorial using Pygame - Python](https://www.101computing.net/pong-tutorial-using-pygame-getting-started/)
@@ -89,6 +89,7 @@
 
 [Amazon Cyber Robotics Challenge](https://play.gocoderz.com/lp/warehouse/free.html?utm_source=AFE_LP&utm_medium=Free_access_link&utm_campaign=Amazon_Challenge)
 
+<!-- -->
 
 # Resources
 
@@ -105,6 +106,8 @@
 [Kaggle](https://www.kaggle.com/)
 
 [Canva](https://www.canva.com/brand/join?token=iPrenhf0dFJZAWE5VFeLBg&brandingVariant=edu&referrer=team-invite)
+
+<!-- -->
 
 # Cheat Sheets
 
