@@ -5,7 +5,7 @@
 
 - [HighLow - Assignment](https://github.com/mswhitby/highlow)
  
-- [HighLow - Tips](https://replit.com/@whs-spring-2023/HighLow-Tips)
+- [HighLow - Tips](https://github.com/mswhitby/highlow/tree/tips)
 
 [Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
