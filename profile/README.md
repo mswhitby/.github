@@ -4,6 +4,8 @@
 **A. Required for everyone not working on an independent project**
 
 - [HighLow - Assignment](https://github.com/mswhitby/highlow)
+ 
+- [HighLow - Tips](https://user-images.githubusercontent.com/104539455/227968902-550ed8d4-c5f5-46f2-85d7-b6b703854f15.png](https://replit.com/@whs-spring-2023/HighLow-Tips)
 
 [Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
