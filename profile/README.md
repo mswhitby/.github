@@ -7,6 +7,17 @@
 
 [Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
+----
+**B. Choose one of the following:**
+
+1. [Hour of Code](https://hourofcode.com/us)
+
+2. [Amazon Cyber Robotics Challenge](https://play.gocoderz.com/lp/warehouse/free.html?utm_source=AFE_LP&utm_medium=Free_access_link&utm_campaign=Amazon_Challenge)
+
+3. [Pong Tutorial using Pygame - Python](https://www.101computing.net/pong-tutorial-using-pygame-getting-started/)
+
+4. [Balloon Popping Game - Scratch](https://projects.raspberrypi.org/en/projects/balloons)
+
 
 
 
