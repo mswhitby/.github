@@ -13,7 +13,7 @@
 
 **2. Python Skill Builder**
 
-- [Python SKill Builder](https://github.com/mswhitby/python_skill_builder)
+- [Python Skill Builder](https://github.com/mswhitby/python_skill_builder)
 
 ---
 
