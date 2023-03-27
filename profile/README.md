@@ -1,4 +1,15 @@
 
+# 3/27/23 - 3/31/23 Assignments
+
+**A. Required for everyone not working on an independent project**
+
+- [HighLow - Assignment](https://github.com/mswhitby/highlow)
+
+[Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
+
+
+
+
 # 3/20/23 - 3/24/23 Assignments
 
 **A. Required for everyone not working on an independent project**
