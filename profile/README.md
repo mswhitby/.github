@@ -15,8 +15,7 @@
 
 = [Python SKill Builder](https://github.com/mswhitby/python_skill_builder)
 
-
-<!-- -->
+---
 
 # 3/20/23 - 3/24/23 Assignments
 
@@ -36,7 +35,7 @@
 
 [Example Solution](https://github.com/Tokage-sharko/Hangman/blob/main/main.py)
 
-----
+
 **B. Choose one of the following:**
 
 1. [Hour of Code](https://hourofcode.com/us)
@@ -47,7 +46,7 @@
 
 4. [Balloon Popping Game - Scratch](https://projects.raspberrypi.org/en/projects/balloons)
 
-<!-- -->
+---
 
 # Midterm
 
@@ -57,7 +56,7 @@
 
 ~~[Join GitHub Class Session](https://prod.liveshare.vsengsaas.visualstudio.com/join?E4D2EAD0033695AB7619CA5E2B8E2F9DDBE7)~~
 
-<!-- -->
+---
 
 # 2/20/23 - 2/24/23 Assignments
 
@@ -79,7 +78,7 @@
 
 [Hour of Code](https://hourofcode.com/us)
 
-<!-- -->
+---
 
 # Alternate Project Ideas
 
@@ -89,7 +88,7 @@
 
 [Amazon Cyber Robotics Challenge](https://play.gocoderz.com/lp/warehouse/free.html?utm_source=AFE_LP&utm_medium=Free_access_link&utm_campaign=Amazon_Challenge)
 
-<!-- -->
+---
 
 # Resources
 
@@ -107,7 +106,7 @@
 
 [Canva](https://www.canva.com/brand/join?token=iPrenhf0dFJZAWE5VFeLBg&brandingVariant=edu&referrer=team-invite)
 
-<!-- -->
+---
 
 # Cheat Sheets
 
