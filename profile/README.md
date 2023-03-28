@@ -21,6 +21,8 @@
 
 **A. Required for everyone not working on an independent project**
 
+- [Hangman - Trinket](https://trinket.io/blocks/e2e2c6b8f7)
+
 - [Hangman - Assignment](https://replit.com/@whs-spring-2023/Hangman-Assignment)
 
 - [Hangman - Tips - Period 1](https://github.com/mswhitby/hangman/tree/period_1)
