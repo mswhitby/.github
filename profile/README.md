@@ -11,6 +11,8 @@
  
 - [HighLow - Tips](https://github.com/mswhitby/highlow/tree/tips)
 
+- [HighLow - Trinket](https://trinket.io/blocks/aaf9a37771)
+
 **2. Python Skill Builder**
 
 - [Python Skill Builder](https://github.com/mswhitby/python_skill_builder)
