@@ -3,8 +3,6 @@
 
 **Required for everyone not working on an independent project**
 
-[Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
-
 **1. HighLow**
 
 - [HighLow - Assignment](https://github.com/mswhitby/highlow)
