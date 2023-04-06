@@ -1,5 +1,16 @@
 # Please complete the form below (it's for a grade)!
+
 [CS Course Survey](https://docs.google.com/forms/d/e/1FAIpQLScwOcHJgBfFk48k3Yn9aPuxAghQZoXOx-oEZTstSHvdje44vw/viewform)
+
+----
+
+[Amazon Cyber Robotics Challenge](https://play.gocoderz.com/lp/warehouse/free.html?utm_source=AFE_LP&utm_medium=Free_access_link&utm_campaign=Amazon_Challenge)
+
+[Pong Tutorial using Pygame - Python](https://www.101computing.net/pong-tutorial-using-pygame-getting-started/)
+
+[Hour of Code](https://hourofcode.com/us)
+
+
 
 
 
