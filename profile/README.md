@@ -1,3 +1,7 @@
+# Please complete the form below (it's for a grade)!
+[CS Course Survey](https://docs.google.com/forms/d/e/1FAIpQLScwOcHJgBfFk48k3Yn9aPuxAghQZoXOx-oEZTstSHvdje44vw/viewform)
+
+
 
 # 3/27/23 - 3/31/23 Assignments
 
