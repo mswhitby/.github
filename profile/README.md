@@ -3,15 +3,13 @@
 [CS Course Survey](https://docs.google.com/forms/d/e/1FAIpQLScwOcHJgBfFk48k3Yn9aPuxAghQZoXOx-oEZTstSHvdje44vw/viewform)
 
 ----
-
-[Amazon Cyber Robotics Challenge](https://play.gocoderz.com/lp/warehouse/free.html?utm_source=AFE_LP&utm_medium=Free_access_link&utm_campaign=Amazon_Challenge)
+[Dice Game](https://realpython.com/python-dice-roll/)
 
 [Pong Tutorial using Pygame - Python](https://www.101computing.net/pong-tutorial-using-pygame-getting-started/)
 
+[Amazon Cyber Robotics Challenge](https://play.gocoderz.com/lp/warehouse/free.html?utm_source=AFE_LP&utm_medium=Free_access_link&utm_campaign=Amazon_Challenge)
+
 [Hour of Code](https://hourofcode.com/us)
-
-
-
 
 
 # 3/27/23 - 3/31/23 Assignments
