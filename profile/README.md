@@ -11,6 +11,8 @@
 
 [Hour of Code](https://hourofcode.com/us)
 
+[Scoreboard](https://copyprogramming.com/howto/how-to-create-a-leaderboard-in-python-a-comprehensive-guide)
+
 
 # 3/27/23 - 3/31/23 Assignments
 
