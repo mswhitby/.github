@@ -7,7 +7,7 @@
 
 [Dice Game - Instructions](https://realpython.com/python-dice-roll/)
 
-Dice Game - Replit](https://replit.com/team/whs-spring-2023)
+[Dice Game - Replit](https://replit.com/team/whs-spring-2023)
 
 
 # 4/3/23 - 4/14/23 Projects
