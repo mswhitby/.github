@@ -3,6 +3,15 @@
 [CS Course Survey](https://docs.google.com/forms/d/e/1FAIpQLScwOcHJgBfFk48k3Yn9aPuxAghQZoXOx-oEZTstSHvdje44vw/viewform)
 
 ----
+# 4/17/23 - 4/21/23 Review
+
+[Dice Game - Instructions](https://realpython.com/python-dice-roll/)
+
+Dice Game - Replit](https://replit.com/team/whs-spring-2023)
+
+
+# 4/3/23 - 4/14/23 Projects
+
 [Dice Game](https://realpython.com/python-dice-roll/)
 
 [Pong Tutorial using Pygame - Python](https://www.101computing.net/pong-tutorial-using-pygame-getting-started/)
