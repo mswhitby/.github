@@ -1,5 +1,7 @@
 ~~[Replit Classroom](https://replit.com/teams/join/pqhtrdktexsvhajgtsgikbeqdlugwizm-whs-summer)~~
+
 [Replit Classroom](https://replit.com/team/whs-summer)
+
 [Chat Bot](https://replit.com/team/whs-summer/Chat-Bot)
 
 # Please complete the form below (it's for a grade)!
