@@ -1,3 +1,5 @@
+[Replit Classroom](https://replit.com/teams/join/pqhtrdktexsvhajgtsgikbeqdlugwizm-whs-summer)
+
 # Please complete the form below (it's for a grade)!
 
 [CS Course Survey](https://docs.google.com/forms/d/e/1FAIpQLScwOcHJgBfFk48k3Yn9aPuxAghQZoXOx-oEZTstSHvdje44vw/viewform)
