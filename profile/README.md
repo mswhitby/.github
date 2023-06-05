@@ -1,6 +1,4 @@
-~~[Replit Classroom](https://replit.com/teams/join/pqhtrdktexsvhajgtsgikbeqdlugwizm-whs-summer)~~
-
-[Replit Classroom](https://replit.com/team/whs-summer)
+[CodeSpace](https://prod.liveshare.vsengsaas.visualstudio.com/join?71A3831CE47F04AC5F0C1E3DC00B75CBD83C)
 
 [Chat Bot](https://replit.com/team/whs-summer/Chat-Bot)
 
