@@ -1,7 +1,7 @@
 # Ms. Whitby's Computer Science Class
 
 ## Contact
-**Website:** <https://judsonisd.org/domain/6785><br>
+[School Webpage](https://judsonisd.org/domain/6785)<br>
 **Email:** <dwhitby@judsonisd.org><br>
 **Phone:** 210.662.5000 ext. 17620<br>
 
