@@ -1,5 +1,6 @@
 # August 17, 2023
 
+----
 ## Computer Science Fundamentals
 ### TEKS
 - demonstrate problem solving and critical thinking skills
