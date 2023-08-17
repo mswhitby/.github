@@ -1,34 +1,62 @@
-# August 17, 2023
+# Ms. Whitby's Computer Science Class
 
-----
-## Computer Science Fundamentals
-### TEKS
-- demonstrate problem solving and critical thinking skills
-- employ effective technical reading and writing skills
+## Courses
+- [Computer Science Fundamentals](https://github.com/mswhitby/computer_science_fundmentals_2023)
+- [Computer Science I](https://github.com/mswhitby/computer_science_2023)
+- Game Program and Design
+- Mobile & Web App Development
 
-### Objectives
-- Student will be able to create headers, text, and list entries in a digital journal using Markdown language.
+## Contact
+[Teacher Website](https://judsonisd.org/domain/6785)
+**Email:** <dwhitby@judsonisd.org>
+**Phone:** 210.662.5000 ext. 
 
-### Agenda
-- Log into student Judson ISD accounts
-- Sign up for [GitHub](http://github.com) account
-- Create Markdown file for digital journal
-- Draft first journal entry
+# Ms. Whitby's Computer Science Class
 
-----
-## Computer Science I
-### TEKS
-- demonstrate problem solving and critical thinking skills
-- employ effective technical reading and writing skills
+## Contact
+**Website:** <https://judsonisd.org/domain/6785><br>
+**Email:** <dwhitby@judsonisd.org><br>
+**Phone:** 210.662.5000 ext. 17620<br>
 
-### Objectives
-- Student will be able to identify, describe, and effectively connect computer hardware components. 
-- Student will be able to create headers, text, and list entries in a digital journal using Markdown language.
+## Tutoring
+- Wednesdays 4:35pm - 5:20pm
+- Thursdays 8:00am - 8:25am
+- By Appointment
 
-### Agenda
-- Setup lab computers
-- Log into student Judson ISD accounts
-- Sign up for [GitHub](http://github.com) account
-- Create Markdown file for digital journal
-- Draft first journal entry
+## Courses
+- [Computer Science Fundamentals](https://github.com/mswhitby/computer_science_fundmentals_2023)
+- [Computer Science I](https://github.com/mswhitby/computer_science_2023)
+- Game Program and Design
+- Mobile & Web App Development
+
+## Resources
+
+[Learn Python The Right Way](https://learnpythontherightway.com/#read)
+
+[Replit](https://replit.com/team/whs-tbirds)
+
+[Python Code Compiler](https://www.onlinegdb.com/)
+
+[Trinket](https://trinket.io/library/trinkets/create?lang=python3)
+
+[Python Visualizer](https://pythontutor.com/visualize.html#mode=edit)
+
+[Kaggle](https://www.kaggle.com/)
+
+[Canva](https://www.canva.com/brand/join?token=iPrenhf0dFJZAWE5VFeLBg&brandingVariant=edu&referrer=team-invite)
+
+---
+
+# Cheat Sheets
+
+[pythoncheatsheet.org](https://www.pythoncheatsheet.org/)
+
+[Python Cheat Sheet - PDF](https://websitesetup.org/wp-content/uploads/2021/04/Python-cheat-sheet-April-2021.pdf)
+
+[Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+
+[Hoja Resumen de Python 3](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-espanol.pdf)
+
+
+
 
