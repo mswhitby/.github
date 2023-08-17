@@ -15,6 +15,7 @@
 - Create Markdown file for digital journal
 - Draft first journal entry
 
+----
 ## Computer Science I
 ### TEKS
 - demonstrate problem solving and critical thinking skills
