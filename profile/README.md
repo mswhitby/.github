@@ -10,7 +10,6 @@
 - Student will be able to create headers, text, and list entries in a digital journal using Markdown language.
 
 ### Agenda
-- Setup lab computers
 - Log into student Judson ISD accounts
 - Sign up for [GitHub](http://github.com) account
 - Create Markdown file for digital journal
