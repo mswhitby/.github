@@ -1,18 +1,5 @@
 # Ms. Whitby's Computer Science Class
 
-## Courses
-- [Computer Science Fundamentals](https://github.com/mswhitby/computer_science_fundmentals_2023)
-- [Computer Science I](https://github.com/mswhitby/computer_science_2023)
-- Game Program and Design
-- Mobile & Web App Development
-
-## Contact
-[Teacher Website](https://judsonisd.org/domain/6785)
-**Email:** <dwhitby@judsonisd.org>
-**Phone:** 210.662.5000 ext. 
-
-# Ms. Whitby's Computer Science Class
-
 ## Contact
 **Website:** <https://judsonisd.org/domain/6785><br>
 **Email:** <dwhitby@judsonisd.org><br>
