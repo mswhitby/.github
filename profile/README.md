@@ -17,6 +17,7 @@
 - Mobile & Web App Development
 
 ## Resources
+- [Markdown Guide](https://www.markdownguide.org/)
 
 - [Learn Python The Right Way](https://learnpythontherightway.com/#read)
 
