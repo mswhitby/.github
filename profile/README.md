@@ -3,9 +3,9 @@
 ## Contact
 **Ms. Whitby's Website:** [mswhitby.com](https://mswhitby.com)<br>
 **Wagner HS Webpage:** <https://judsonisd.org/domain/6785><br>
-**Github:** [github.com/mswhitby/classroom](https://github.com/mswhitby/classroom)<br>
 **Email:** <dwhitby@judsonisd.org><br>
 **Phone:** 210.662.5000 ext. 17620<br>
+**Github:** [github.com/mswhitby/classroom](https://github.com/mswhitby/classroom)<br>
 
 ## Tutoring
 - Wednesdays 4:35pm - 5:20pm
