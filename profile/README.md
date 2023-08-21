@@ -1,7 +1,9 @@
 # Ms. Whitby's Computer Science Class
 
 ## Contact
-**Webpage:** [Wagner High School](https://judsonisd.org/domain/6785)<br>
+**Ms. Whitby's Website:** [mswhitby.com](https://mswhitby.com)<br>
+**Wagner HS Webpage:** <https://judsonisd.org/domain/6785><br>
+**Github:** [github.com/mswhitby/classroom](https://github.com/mswhitby/classroom)<br>
 **Email:** <dwhitby@judsonisd.org><br>
 **Phone:** 210.662.5000 ext. 17620<br>
 
@@ -11,8 +13,8 @@
 - By Appointment
 
 ## Courses
-- [Computer Science Fundamentals](https://github.com/mswhitby/computer_science_fundmentals_2023)
-- [Computer Science I](https://github.com/mswhitby/computer_science_2023)
+- [Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/main/_docs/courses/csf.md)
+- [Computer Science I](https://github.com/mswhitby/classroom/blob/main/_docs/courses/cs1.md)
 - Game Program and Design
 - Mobile & Web App Development
 
