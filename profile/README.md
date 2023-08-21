@@ -35,7 +35,7 @@
 
 ---
 
-# Cheat Sheets
+## Cheat Sheets
 
 - [pythoncheatsheet.org](https://www.pythoncheatsheet.org/)
 
