@@ -13,8 +13,8 @@
 - By Appointment
 
 ## Courses
-- [Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/main/_docs/courses/csf.md)
-- [Computer Science I](https://github.com/mswhitby/classroom/blob/main/_docs/courses/cs1.md)
+- [Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/main/_docs/courses/csf.md) (Periods 1 & 5)
+- [Computer Science I](https://github.com/mswhitby/classroom/blob/main/_docs/courses/cs1.md) (Periods 3 & 4)
 - Game Program and Design
 - Mobile & Web App Development
 
