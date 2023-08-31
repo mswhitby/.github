@@ -1,22 +1,22 @@
 # Ms. Whitby's Computer Science Class
 
-## Contact
-**Ms. Whitby's Website:** [mswhitby.com](https://mswhitby.com)<br>
-**Wagner HS Webpage:** <https://judsonisd.org/domain/6785><br>
-**Email:** <dwhitby@judsonisd.org><br>
-**Phone:** 210.662.5000 ext. 17620<br>
-**Github:** [github.com/mswhitby/classroom](https://github.com/mswhitby/classroom)<br>
+## Courses
+- [Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/main/_docs/courses/csf.md) (Periods 1 & 5)
+- [Computer Science I](https://github.com/mswhitby/classroom/blob/main/_docs/courses/cs1.md) (Periods 3 & 4)
+- Game Program and Design
+- Mobile & Web App Development
 
 ## Tutoring
 - Wednesdays 4:35pm - 5:20pm
 - Thursdays 8:00am - 8:25am
 - By Appointment
 
-## Class Agenda
-- [Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/main/_docs/courses/csf.md) (Periods 1 & 5)
-- [Computer Science I](https://github.com/mswhitby/classroom/blob/main/_docs/courses/cs1.md) (Periods 3 & 4)
-- Game Program and Design
-- Mobile & Web App Development
+## Contact
+**Ms. Whitby's Website:** [mswhitby.com](https://mswhitby.com)<br>
+**Wagner HS Webpage:** <https://judsonisd.org/domain/6785><br>
+**Email:** <dwhitby@judsonisd.org><br>
+**Phone:** 210.662.5000 ext. 17620<br>
+**Github:** [github.com/mswhitby/classroom](https://github.com/mswhitby/classroom)<br>
 
 ## Resources
 
