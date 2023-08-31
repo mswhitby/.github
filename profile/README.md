@@ -13,7 +13,7 @@
 
 ## Contact
 **Ms. Whitby's Website:** [mswhitby.com](https://mswhitby.com)<br>
-**Wagner HS Webpage:** <https://judsonisd.org/domain/6785><br>
+**Wagner HS Webpage:** [judsonisd.org/domain/6785]<https://judsonisd.org/domain/6785><br>
 **Email:** <dwhitby@judsonisd.org><br>
 **Phone:** 210.662.5000 ext. 17620<br>
 **Github:** [github.com/mswhitby/classroom](https://github.com/mswhitby/classroom)<br>
