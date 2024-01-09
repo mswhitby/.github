@@ -1,5 +1,7 @@
 # Ms. Whitby's Computer Science Class
 
+[CodeHS - Computer Science 1](https://codehs.com/go/AECFF)
+
 ## Courses
 - [Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/main/_docs/courses/csf.md) (Periods 1 & 5)
 - [Computer Science I](https://github.com/mswhitby/classroom/blob/main/_docs/courses/cs1.md) (Periods 3 & 4)
