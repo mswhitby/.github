@@ -1,7 +1,8 @@
 # Ms. Whitby's Computer Science Class
 
+## Create Class Accounts
 - [CodeHS - Computer Science 1](https://codehs.com/go/AECFF) Class Code: AECFF
-- [Game Development & Design](https://studio.code.org/join/VVNPLN) Class Code: VVNPLN
+- [Game Programming & Design](https://studio.code.org/join/VVNPLN) Class Code: VVNPLN
 
 ## Courses
 - [Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/main/_docs/courses/csf.md)
