@@ -1,5 +1,5 @@
 # Create Class Accounts
-- [Computer Science 1](https://codehs.com/go/AECFF) Class Code: AECFF
+- [Computer Science I](https://codehs.com/go/AECFF) Class Code: AECFF
 - [Mobile & Web App Development](https://studio.code.org/join/MZGBCB) Class Code: MZGBCB
 - [Game Programming & Design](https://studio.code.org/join/VVNPLN) Class Code: VVNPLN
 
