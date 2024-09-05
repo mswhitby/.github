@@ -11,7 +11,7 @@
 - [7th Period - Computer Science I](https://github.com/mswhitby/classroom/blob/main/_docs/classes/7th.md)
 
 ## Journal
-= [Journal Prompts](https://github.com/mswhitby/classroom/blob/main/_docs/resources/journal.md)
+- [Journal Prompts](https://github.com/mswhitby/classroom/blob/main/_docs/resources/journal.md)
 - [Create Your Journal](https://github.com/mswhitby/classroom/blob/main/_docs/resources/journal_creation.md)
 - [Markdown Examples for Journal](https://github.com/mswhitby/classroom/blob/main/_docs/resources/markdown_examples.md)
 
