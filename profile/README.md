@@ -1,14 +1,14 @@
 # Ms. Whitby's Computer Science Class
 
 ## Classes
-- [1st Period - Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/6efb95bcd6b9ff356d2f1af68e740b0a45bdabf9/_docs/classes/1st.md)
-- [3rd Period - Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/6efb95bcd6b9ff356d2f1af68e740b0a45bdabf9/_docs/classes/3rd.md)
-- [3rd Period - Practicum in Information Technology](https://github.com/mswhitby/classroom/blob/6efb95bcd6b9ff356d2f1af68e740b0a45bdabf9/_docs/classes/practicum.md)
-- [4th Period - Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/6efb95bcd6b9ff356d2f1af68e740b0a45bdabf9/_docs/classes/4th.md)
-- [5th Period - Game Program & Design](https://github.com/mswhitby/classroom/blob/6efb95bcd6b9ff356d2f1af68e740b0a45bdabf9/_docs/classes/5th.md)
-- [5th Period - Mobile App Development](https://github.com/mswhitby/classroom/blob/6efb95bcd6b9ff356d2f1af68e740b0a45bdabf9/_docs/classes/5th.md)
-- [6th Period - Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/6efb95bcd6b9ff356d2f1af68e740b0a45bdabf9/_docs/classes/6th.md)
-- [7th Period - Computer Science I](https://github.com/mswhitby/classroom/blob/6efb95bcd6b9ff356d2f1af68e740b0a45bdabf9/_docs/classes/7th.md)
+- [1st Period - Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/main/_docs/classes/1st.md)
+- [3rd Period - Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/main/_docs/classes/3rd.md)
+- [3rd Period - Practicum in Information Technology](https://github.com/mswhitby/classroom/blob/main/_docs/classes/practicum.md)
+- [4th Period - Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/main/_docs/classes/4th.md)
+- [5th Period - Game Program & Design](https://github.com/mswhitby/classroom/blob/main/_docs/classes/5th.md)
+- [5th Period - Mobile App Development](https://github.com/mswhitby/classroom/blob/main/_docs/classes/5th.md)
+- [6th Period - Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/main/_docs/classes/6th.md)
+- [7th Period - Computer Science I](https://github.com/mswhitby/classroom/blob/main/_docs/classes/7th.md)
 
 ## Tutoring
 - Wednesdays 4:35pm - 5:20pm
