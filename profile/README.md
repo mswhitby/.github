@@ -10,6 +10,11 @@
 - [6th Period - Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/main/_docs/classes/6th.md)
 - [7th Period - Computer Science I](https://github.com/mswhitby/classroom/blob/main/_docs/classes/7th.md)
 
+## Journal
+= [Journal Prompts](https://github.com/mswhitby/classroom/blob/main/_docs/resources/journal.md)
+- [Create Your Journal](https://github.com/mswhitby/classroom/blob/main/_docs/resources/journal_creation.md)
+- [Markdown Examples for Journal](https://github.com/mswhitby/classroom/blob/main/_docs/resources/markdown_examples.md)
+
 ## Tutoring
 - Wednesdays 4:35pm - 5:20pm
 - Thursdays 8:00am - 8:25am
