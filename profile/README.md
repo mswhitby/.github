@@ -11,9 +11,9 @@
 - [7th Period - Computer Science I](https://github.com/mswhitby/classroom/blob/main/_docs/classes/7th.md)
 
 ## Journal
-- [GitHub User Name Form](https://forms.gle/PmXU1Prh6c1Tb47H8)
 - [Journal Prompts](https://github.com/mswhitby/classroom/blob/main/_docs/resources/journal.md)
 - [Create Your Journal](https://github.com/mswhitby/classroom/blob/main/_docs/resources/journal_creation.md)
+- [GitHub User Name Form](https://forms.gle/PmXU1Prh6c1Tb47H8)
 - [Markdown Examples for Journal](https://github.com/mswhitby/classroom/blob/main/_docs/resources/markdown_examples.md)
 
 ## Tutoring
