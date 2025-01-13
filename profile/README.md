@@ -16,6 +16,9 @@
 - [GitHub User Name Form](https://forms.gle/PmXU1Prh6c1Tb47H8)
 - [Markdown Examples for Journal](https://github.com/mswhitby/classroom/blob/main/_docs/resources/markdown_examples.md)
 
+## Classroom Links
+- [Hall Pass Request](https://docs.google.com/forms/d/e/1FAIpQLSfpH1JXsSw0ZeJ65uNOoNwubNk--GSpeFS87BqDsTuL5EI1FQ/viewform)
+
 ## Tutoring
 - Wednesdays 4:35pm - 5:20pm
 - Thursdays 8:00am - 8:25am
