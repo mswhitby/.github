@@ -18,6 +18,7 @@
 
 ## Classroom Links
 - [Hall Pass Request](https://docs.google.com/forms/d/e/1FAIpQLSfpH1JXsSw0ZeJ65uNOoNwubNk--GSpeFS87BqDsTuL5EI1FQ/viewform)
+- [Class Grade Averages Competition](https://github.com/mswhitby/classroom/blob/main/_docs/resources/class_avg_grades.md)
 - [Late Work Policy](https://github.com/mswhitby/classroom/blob/main/_docs/resources/late_work.md)
 
 ## Tutoring
