@@ -18,6 +18,7 @@
 
 ## Classroom Links
 - [Hall Pass Request](https://docs.google.com/forms/d/e/1FAIpQLSfpH1JXsSw0ZeJ65uNOoNwubNk--GSpeFS87BqDsTuL5EI1FQ/viewform)
+- [Late Work Policy](https://github.com/mswhitby/classroom/blob/main/_docs/resources/late_work.md)
 
 ## Tutoring
 - Wednesdays 4:35pm - 5:20pm
