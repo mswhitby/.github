@@ -4,7 +4,7 @@
 - [1st Period - Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/main/_docs/classes/1st.md)
 - [3rd Period - Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/main/_docs/classes/3rd.md)
 - [4th Period - Mobile App Development](https://github.com/mswhitby/classroom/blob/main/_docs/classes/4th.md)
-- [4th Period - Information Technology Capstone](https://github.com/mswhitby/classroom/blob/main/_docs/classes/practicum.md)
+- [4th Period - Information Technology Capstone](https://github.com/mswhitby/classroom/blob/main/_docs/classes/capstone.md)
 - [5th Period - Game Program & Design](https://github.com/mswhitby/classroom/blob/main/_docs/classes/5th.md)
 - [6th Period - Game Program & Design](https://github.com/mswhitby/classroom/blob/main/_docs/classes/6th.md)
 - [7th Period - Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/main/_docs/classes/7th.md)
