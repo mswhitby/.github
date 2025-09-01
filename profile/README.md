@@ -8,6 +8,7 @@
 - [5th Period - Game Program & Design](https://github.com/mswhitby/classroom/blob/main/_docs/classes/5th.md)
 - [6th Period - Game Program & Design](https://github.com/mswhitby/classroom/blob/main/_docs/classes/6th.md)
 - [7th Period - Computer Science Fundamentals](https://github.com/mswhitby/classroom/blob/main/_docs/classes/7th.md)
+- [UIL](https://github.com/mswhitby/classroom/blob/main/_docs/classes/uil.md)
 
 ## Journal
 - [Journal Prompts](https://github.com/mswhitby/classroom/blob/main/_docs/resources/journal.md)
