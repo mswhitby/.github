@@ -13,7 +13,7 @@
 ## Journal
 - [Journal Prompts](https://github.com/mswhitby/classroom/blob/main/_docs/resources/journal.md)
 - [Create Your Journal](https://github.com/mswhitby/classroom/blob/main/_docs/resources/journal_creation.md)
-- [GitHub User Name Form](https://docs.google.com/forms/d/e/1FAIpQLSd6lCoQcdXk9aBNPUv6bAQuOkrEl7mkVz8NIwBM-Wp0QN3y1A/viewform?usp=sharing&ouid=103757915886071781007)
+- [GitHub Usernames Form](https://docs.google.com/forms/d/e/1FAIpQLSd6lCoQcdXk9aBNPUv6bAQuOkrEl7mkVz8NIwBM-Wp0QN3y1A/viewform?usp=sharing&ouid=103757915886071781007)
 - [Markdown Examples for Journal](https://github.com/mswhitby/classroom/blob/main/_docs/resources/markdown_examples.md)
 
 ## Classroom Links
