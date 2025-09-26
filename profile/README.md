@@ -61,7 +61,7 @@
 
 - [Python Visualizer](https://pythontutor.com/visualize.html#mode=edit)
 
-- [Canva](https://www.canva.com/brand/join?token=iPrenhf0dFJZAWE5VFeLBg&brandingVariant=edu&referrer=team-invite)
+- [Canva](https://www.canva.com)
 
 ### Cheat Sheets
 
